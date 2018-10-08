@@ -1,7 +1,7 @@
 'use strict';
 
-const count = () => {
-  console.log(27);
+const count = (param) => {
+  console.log(param);
 }
 
-count();
+count(27);
