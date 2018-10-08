@@ -1,4 +1,5 @@
-'use strict';
+const printName = (myName, myHoroscope) => {
+    console.log(myName, myHoroscope);
+};
 
-let baseLanguage = 'Turkish';
-console.log(baseLanguage);
+printMyName('Greetings!', 'tiger');
