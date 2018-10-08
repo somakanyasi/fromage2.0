@@ -4,4 +4,4 @@ const count = (param) => {
   console.log(param);
 }
 
-count(27);
+count(25);
