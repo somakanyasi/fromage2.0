@@ -1,5 +1,5 @@
-const printMyName = (myName) => {
-  console.log(myName);
+const printMyName = (myName, myAge) => {
+  console.log(myName, myAge);
 };
 
-printMyName('Greetings!');
+printMyName('Greetings!', 25);
