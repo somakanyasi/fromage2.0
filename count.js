@@ -5,4 +5,4 @@ const count = (param1, param2) => {
   console.log(param2);
 }
 
-count(27,'rondamacska');
+count(27,'csúnyamacska');
