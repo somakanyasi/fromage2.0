@@ -1,7 +1,7 @@
 'use strict';
 
-let future = () => {
-  console.log('Capricorn');
+let future = (param) => {
+  console.log(param);
 }
 
-future();
+future('Capricorn');
