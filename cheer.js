@@ -1,2 +1,3 @@
 'use strict';
-console.log('fromage 2');
+let input = `fromage 2`;
+console.log(input);
