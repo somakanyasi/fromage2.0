@@ -1,5 +1,5 @@
-const printName = (myName, myHoroscope) => {
-    console.log(myName, myHoroscope);
+const printName = (param) => {
+    console.log(`Cheer for the ${param}`);
 };
 
-printMyName('Greetings!', 'tiger');
+printMyName('tiger');
