@@ -4,4 +4,4 @@ let future = (param) => {
   console.log(param);
 }
 
-future('Capricorn');
+future('Tiger');
