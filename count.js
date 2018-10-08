@@ -1,8 +1,7 @@
 'use strict';
 
-const count = (param1, param2) => {
-  console.log(param1);
-  console.log(param2);
+const count = (parameter) => {
+  console.log(`Counting the countless ${parameter}`);;
 }
 
-count(27,'rondamacska');
+count('rondamacska');
