@@ -1,3 +1,3 @@
 const printMyName = () => {
-  console.log('Dani');
+  console.log('Dani')
 };
